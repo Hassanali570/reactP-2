@@ -1,0 +1,16 @@
+.contact_section{
+    width: 900px;
+    margin: 0 auto;
+    margin-top: 60px;
+}
+.contact_section h1{
+    font-size: 28px;
+    text-transform: uppercase;
+    font-weight: 800;
+
+}
+.contact_section p{
+    text-transform: lowercase;
+    font-style: italic;
+
+}
